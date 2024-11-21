@@ -30,4 +30,8 @@ finally:
     time.sleep(5)
 
     # 关闭浏览器
+<<<<<<< HEAD
     driver.quit()
+=======
+    # driver.quit()
+>>>>>>> 78baa11 (添加 Python 调试配置文件以及新的 Selenium 自动化脚本，包含搜索框输入随机数和按钮点击逻辑。)
